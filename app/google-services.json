@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367414296601",
+    "project_id": "notiremota",
+    "storage_bucket": "notiremota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367414296601:android:21c4376069bc256a196a88",
+        "android_client_info": {
+          "package_name": "mx.itesm.smgv.notiremota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367414296601-caktbga0pn55esjjs60d9ugvgb9ujp78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9NSsEjOrd1JYhWDtuxfsWllFxRzJhWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367414296601-caktbga0pn55esjjs60d9ugvgb9ujp78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
